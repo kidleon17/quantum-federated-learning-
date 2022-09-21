@@ -1,0 +1,6 @@
+The score of rbf is : 0.888112
+The score of linear is : 0.944056
+The score of poly is : 0.888112
+The score of rbf is : 0.902098
+The score of linear is : 0.937063
+The score of poly is : 0.895105
